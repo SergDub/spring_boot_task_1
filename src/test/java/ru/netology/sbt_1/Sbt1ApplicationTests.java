@@ -11,7 +11,6 @@ import org.testcontainers.containers.GenericContainer;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
-//@SpringBootTest
 class Sbt1ApplicationTests {
 
     @Autowired
